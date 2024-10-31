@@ -12,7 +12,7 @@
 
 ### 3. Enter the time machine
 
-**답:**
+**답: git init 카드 드래그**
 
 ### 4. The command line
 
