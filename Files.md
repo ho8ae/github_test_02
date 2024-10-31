@@ -4,8 +4,8 @@
 
 ### 1. Unexpected Roommates
 
-**답:**
+**답: rm *web **
 
 ### 2. Interior design
 
-**답:**
+**답: (touch chair , touch desk) ->yellow 작성 **
