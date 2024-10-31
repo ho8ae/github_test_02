@@ -20,7 +20,7 @@
 
 ### 5. Your first commit
 
-**답:**
+**답: 카드 드래그 커밋 수정 후 파일 변경 후 한번 더 커밋 수정**
 
 ### 6. Working together
 
