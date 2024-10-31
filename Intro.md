@@ -16,7 +16,7 @@
 
 ### 4. The command line
 
-**답:**
+**답: git init 작성 **
 
 ### 5. Your first commit
 
