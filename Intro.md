@@ -24,4 +24,4 @@
 
 ### 6. Working together
 
-**답:**
+**답: git pull -> 파일 이름 작성 -> add . & 커밋 작성 -> push**
